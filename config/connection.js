@@ -1,11 +1,3 @@
-const mongoose = require('mongoose');
-
-mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://ekowbossman:<password>@cluster0.uewnktn.mongodb.net/?retryWrites=true&w=majority' , {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
-
-module.exports = mongoose.connection;
 
 const Sequelize = require('sequelize');
 require('dotenv').config();
@@ -23,8 +15,7 @@ if (process.env.JAWSDB_URL) {
       host: 'localhost',
       dialect: 'mysql',
       port: 3306,
-      database:'demo_db',
-      password:'Bossman1982'
+     
     }
   ); 
 }
