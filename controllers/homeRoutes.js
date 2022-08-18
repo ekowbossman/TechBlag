@@ -4,7 +4,7 @@ const withAuth = require('../utils/auth');
 
 router.get('/', (req, res) => {
   // If a session exists, redirect the request to the homepage
-  res.render('home');
+  res.render('homepage');
 });
 router.get('/profile', withAuth, async (req, res) => {
   if (!req.session.logged_in) {
