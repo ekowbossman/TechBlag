@@ -47,5 +47,15 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
 
-# Usage 
+### Usage 
 This program is deployed on Heroku, at the following URL: https://cryptic-anchorage-24658.herokuapp.com/
+
+video
+google drive : https://drive.google.com/file/d/1_Z1XmgmAq6fT5LMfFAfEhj9Z9nsXyxGF/view
+
+youtube: https://youtu.be/RJpcnKWdy34
+
+
+#### Mock Up: 
+![alt text](./asset/Techblog.png)
+![alt text](./asset/TechBlog2.png)
