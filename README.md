@@ -59,3 +59,4 @@ youtube: https://youtu.be/RJpcnKWdy34
 #### Mock Up: 
 ![alt text](./asset/Techblog.png)
 ![alt text](./asset/TechBlog2.png)
+![alt text](./asset/techBlog3.png)
