@@ -51,9 +51,9 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 This program is deployed on Heroku, at the following URL: https://cryptic-anchorage-24658.herokuapp.com/
 
 video
-google drive : https://drive.google.com/file/d/1_Z1XmgmAq6fT5LMfFAfEhj9Z9nsXyxGF/view
+google drive : https://drive.google.com/file/d/1j8jNtd0tsogNdyx1V7POmdXucK_KnfrI/view
 
-youtube: https://youtu.be/RJpcnKWdy34
+youtube: https://youtu.be/Wu9mPW0fhm4
 
 
 #### Mock Up: 
